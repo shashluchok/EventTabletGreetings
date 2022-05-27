@@ -2,4 +2,5 @@
     <string name="app_name">EventTabletGreetings</string>
     <string name="greetings_text">Добро пожаловать,</string>
     <string name="stand_titles">A%1$s и B%2$s</string>
+    <string name="recomend_stands">Рекомендуем вам посетить стенды</string>
 </resources>
