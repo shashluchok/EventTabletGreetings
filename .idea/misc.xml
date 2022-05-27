@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/AndroidStudioProjects/EventTabletGreetings/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.210546875" />
+        <entry key="..\:/AndroidStudioProjects/EventTabletGreetings/app/src/main/res/drawable/logo.xml" value="0.289" />
+        <entry key="..\:/AndroidStudioProjects/EventTabletGreetings/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/EventTabletGreetings/app/src/main/res/layout/activity_main.xml" value="0.28072916666666664" />
       </map>
     </option>
   </component>
